@@ -12,8 +12,8 @@
 -->
 
 
-<h1 align="center">Hi 👋 I'm Olha </h1>
-<h3 align="center">QA engineer and a passionate animal-lover </h3>
+<h1 align="center">Hi 👋 </h1>
+<h3 align="center">I am the QA engineer and a passionate animal-lover </h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
@@ -33,7 +33,7 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=osechka333&show_icons=true" alt="tomkaX" />
-  <img  align="right" src="https://github.com/osechka333/osechka333/blob/master/3aM.gif" width="230">
+  <img  align="right" src="https://github.com/osechka333/osechka333/blob/master/catPaw.gif" width="230">
  </p>
 
 <p align="center">
