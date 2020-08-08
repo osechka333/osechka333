@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **osechka333/osechka333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@
 -->
 
 
-<h1 align="center">Hi 👋, I'm Olha </h1>
+<h1 align="center">Hi 👋 I'm Olha </h1>
 <h3 align="center">QA engineer and a passionate animal-lover </h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
@@ -34,15 +32,12 @@
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=tomkax&show_icons=true" alt="tomkaX" />
-  <img  align="right" src="https://github.com/tomkaX/tomkaX/blob/master/gifs/3aM.gif" width="230">
+  <img src="https://github-readme-stats.vercel.app/api?username=osechka333&show_icons=true" alt="tomkaX" />
+  <img  align="right" src="https://github.com/osechka333/osechka333/blob/master/3aM.gif" width="230">
  </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/tomakoliada/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tomakoliada/" height="20" width="20" /></a>
-  <a href="https://www.facebook.com/tomkka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/tomkka" height="20" width="20" /></a>
-  <a href="https://www.instagram.com/tomkamk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tomkamk/" height="20" width="20" /></a>
- <a href="https://twitter.com/T0MKA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/T0MKA" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/opokolenko/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/opokolenko/" height="20" width="20" /></a>
 
 </p>
 
