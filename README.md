@@ -33,7 +33,7 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=osechka333&show_icons=true" alt="tomkaX" />
-  <img  align="right" src="https://github.com/osechka333/osechka333/blob/master/catPaw.gif" width="430">
+  <img  align="right" src="https://github.com/osechka333/osechka333/blob/master/catPaw.gif" width="230">
  </p>
 
 <p align="center">
