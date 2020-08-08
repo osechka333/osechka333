@@ -37,7 +37,7 @@
  </p>
 
 <p align="center"> 
-<h4 align="center">Find me on LinkedIn 😄 </h4> <a href="https://www.linkedin.com/in/opokolenko/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/opokolenko/" height="20" width="20" /></a>
+<h4 align="center">Find me on LinkedIn 😄 <a href="https://www.linkedin.com/in/opokolenko/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/opokolenko/" height="20" width="20" /></a> </h4>
 
 </p>
 
