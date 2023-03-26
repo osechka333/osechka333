@@ -12,8 +12,8 @@
 -->
 
 
-<h1 align="center">Hi 👋 </h1>
-<h3 align="center">I'm the QA engineer and a passionate animal-lover </h3>
+<h1 align="center">Hi 👋 there</h1>
+<h3 align="center"></h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
