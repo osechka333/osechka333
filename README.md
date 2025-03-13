@@ -35,9 +35,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=osechka333&show_icons=true" alt="osechka333" />
   <img  align="right" src="https://github.com/osechka333/osechka333/blob/master/catPaw.gif" width="330">
  </p>
-
-<p align="center"> 
-<h4 align="center">Find me on LinkedIn 😄 <a href="https://www.linkedin.com/in/opokolenko/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/opokolenko/" height="20" width="20" /></a> </h4>
-
-</p>
-
